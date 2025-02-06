@@ -1,0 +1,6 @@
+day1:
+date:6-2-2025
+learn:create an git account,some css styles,navigation, 
+implement:create an home page,with a background image,using css and div sections
+challenges:face difficulty to create an repository,and the applications of commands
+ ---commit

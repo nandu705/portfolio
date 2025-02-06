@@ -1,0 +1,18 @@
+h1{
+    color:aquamarine;
+    border:3px dotted yellow;
+    text-align:center;
+    text-decoration:underline;
+}
+ body{
+                margin:0;
+                padding:0;
+                background:url("flower 2.jpeg")
+                no-repeat center center fixed;
+                background-size:cover;
+            
+
+            }
+        a{
+            color:bisque;\
+        }
