@@ -4,3 +4,9 @@ learn:create an git account,some css styles,navigation,
 implement:create an home page,with a background image,using css and div sections
 challenges:face difficulty to create an repository,and the applications of commands
  ---commit
+day 2:
+date:7-2-2025
+learn:how to insert an image in full space of the website,some css styles
+implement:create two more links ,new styling patterns
+challenges:corresponding links would not work for the  corresponding sections
+---commit

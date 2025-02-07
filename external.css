@@ -1,18 +1,46 @@
 h1{
-    color:aquamarine;
-    border:3px dotted yellow;
+    color:cyan;
     text-align:center;
     text-decoration:underline;
 }
  body{
                 margin:0;
                 padding:0;
-                background:url("flower 2.jpeg")
+                background:url("k.jpeg")
                 no-repeat center center fixed;
                 background-size:cover;
             
 
             }
         a{
-            color:bisque;\
+            color:bisque;
         }
+        p{
+            font-size:medium ;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+            text-align:left;
+        }
+        h2{
+            color:aliceblue;
+            text-align: left;
+            
+        }
+        strong{
+            text-align: left;
+            color: blanchedalmond;
+            font-weight: 200;
+        }
+        p{
+            color: azure;
+            text-decoration: antiquewhite;
+        }
+        ul{
+            color: azure;
+            text-decoration: antiquewhite;
+        }
+        li{
+            color: azure;
+            text-decoration: antiquewhite;
+        }
+            
+        
