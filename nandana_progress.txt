@@ -10,3 +10,9 @@ learn:how to insert an image in full space of the website,some css styles
 implement:create two more links ,new styling patterns
 challenges:corresponding links would not work for the  corresponding sections
 ---commit
+day 3:
+date:8-2-2025
+learn:focused on different styles,learn how to push a content to git
+implement:implement styling patterns,verify navigation keys
+challenges:how to insert profile pics in this sections
+---commit
